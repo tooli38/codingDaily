@@ -2,7 +2,7 @@ package code_1220;
 
 import java.util.Scanner;
 
-public class acm18121 {
+public class 그리디_acm18121 {
     static Scanner sc = new Scanner(System.in);
     public static void main(String args[]) {
         String input = sc.nextLine();

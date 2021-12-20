@@ -3,7 +3,7 @@ package code_1220;
 
 import java.util.stream.Stream;
 
-public class pg60057 {
+public class 구현_pg60057 {
     public static void main(String args[]) {
         String s = "a";
         Integer ans = solution(s);
